@@ -2,4 +2,4 @@ This code is under re-organization for a more convenient use, please wait for a 
 
 For now, the code is completely ok to run, but not easy to read.
 
-The dataset and checkpoint will be release in next few days (before 2024/6/29).
+The dataset is provided at the following site: https://www.alipan.com/s/L6hxG8NFNKQ, with the password 'kf64'.
